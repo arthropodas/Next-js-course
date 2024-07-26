@@ -7,7 +7,7 @@ export default function ReviewNotFoudn({
       reviewId: string;
     };
   }) {
-    if(parseInt(params.reviewId>1000)){
+    if(parseInt(params.reviewId)>1000){
         return <h1>revew not found</h1>
     }
     return (
