@@ -1,3 +1,5 @@
-export default function ComplexDashboardPage() {
-  return <><h1>fsldkjlsdk</h1></>;
+export default function ComplexDashboardPage(){
+    return <>
+    complex dashpage</>
+
 }
